@@ -1,0 +1,51 @@
+.chiefExecutiveDiv{
+    width: 300px;
+    border: 2px dotted black;
+    background-color: lightcoral;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.chiefExecutiveDiv p{
+    text-align: justify;
+}
+
+
+.chiefExecutivePic{
+    width: 200px;
+    height: 200px;
+}
+#sundarDiv{
+    background-image: url("./images/googlelogosmall-removebg-preview.png");
+    background-size: 100px;
+    background-repeat: repeat;
+    background-origin:border-box ;
+    border: 10px dotted black;
+    background-clip: border-box;
+    background-color: aqua;
+}
+ 
+#satyaDiv{
+    background-image: url("./images/microsoft_logo-removebg-preview.png");
+    background-size: contain;
+    background-repeat:no-repeat ;
+    background-position: center bottom;
+    background-origin: padding-box;
+    border: 10px dotted black;
+    background-clip: padding-box;
+    background-color: aquamarine;
+
+}
+#markDiv{
+    background-image: url("./images/meta_logo-removebg-preview.png");
+    background-attachment: fixed;
+    background-origin: content-box;
+    border: 10px dotted black;
+    background-clip: content-box;
+    background-color: lightpink;
+}
+
+
+
